@@ -1,4 +1,7 @@
 # 🎬 Netflix Data Cleaning & Visualization Dashboard
+## 🌐 Live Dashboard
+
+[Click here to view the live Streamlit dashboard](https://thiranex-netflix-dashboard.streamlit.app/)
 
 ## 📌 Thiranex Internship Task 1
 
